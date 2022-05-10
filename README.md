@@ -2,4 +2,6 @@
 
 Do you want to get rid of Edge? Then you’re in the right place!
 
-This 
+__WARNING: This is not stable release and can contain bugs. Please use this at you’re own risk.__
+
+__You will need to repeat this proccess every time Edge updates!__
